@@ -1,5 +1,7 @@
 # Face-Mask-Detection
 
+![face_mask_detection_phases](https://user-images.githubusercontent.com/60872081/149610125-435c6c0e-6260-4834-9068-b96346a57d16.png)
+
 1. Open terminal. Go into the cloned project directory and type the following command:
 ```
 > python3 train_mask_detector.py --dataset dataset
